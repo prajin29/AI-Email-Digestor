@@ -48,9 +48,8 @@ pip install -r requirements.txt
 
 ```ini
 COHERE_API_KEY=your_cohere_api_key_here
-SENDER_EMAIL=your_gmail@gmail.com
-RECEIVER_EMAIL=recipient@gmail.com
-APP_PASSWORD=your_app_password   # Generate from Gmail App Passwords
+EMAIL_ADDRESS=your_gmail@gmail.com
+EMAIL_PASSWORD=your_app_password   # Generate from Gmail App Passwords
 ```
 
 ---
@@ -79,4 +78,5 @@ AI Email Digest:
 3. Coursera promotes Content Creation Certificate...
 4. Tata CLiQ announces 10/10 Sale...
 ```
+
 
